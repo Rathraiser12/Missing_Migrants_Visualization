@@ -1,4 +1,4 @@
-This repo contains the Visualization project for creating a visualization for missing migrant database. 
+This repo contains the Visualization Couse project for creating a visualization for missing migrant database. 
 
 ## Live Demo
 
